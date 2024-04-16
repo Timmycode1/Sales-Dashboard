@@ -97,3 +97,6 @@ GROUP BY customer_id
 ORDER BY num_orders DESC;
 
 ```
+## Dashboard
+Explore our dynamic sales analysis dashboard:
+- [Sales Dashboard](sale-dashboard/sales-project)
