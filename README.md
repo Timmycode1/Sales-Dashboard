@@ -99,4 +99,4 @@ ORDER BY num_orders DESC;
 ```
 ## Dashboard
 Explore our dynamic sales analysis dashboard:
-- [Sales Dashboard](sales-project)
+- [Sales Dashboard]([sales-project](https://github.com/Timmycode1/Sales-Dashboard/blob/main/Sales%20Project.twbx))
