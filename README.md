@@ -1,5 +1,15 @@
 # Product Sales Analysis
 
+## TABLE OF CONTENTS
+- [Project Overview](#project-overview)
+- [Data Source](#data-source)
+- [Tools](#tools)
+- [Data Cleaning/Preparation](#data-cleaningpreparation)
+   - [Data Cleaning Steps](#data-cleaning-steps)
+   - [Result](#results)
+- [Exploratory Data Analysis (EDA) Questions](#exploratory-data-analysis-eda-questions)
+- [Data Analysis with SQL(Codes)](#data-analysis-with-sql)
+-  [Dashboard](#dashboard)
 
 ## Project Overview
 
