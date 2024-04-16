@@ -4,6 +4,9 @@
 ## Project Overview
 
 Welcome to our Sales Analysis Dashboard project! This interactive dashboard provides comprehensive insights into sales performance and customer behavior. Explore Total Sales, Profit, and Quantity metrics with year-on-year comparisons, and delve into sales trends by product subcategory and customer insights by order volume. With flexible filtering options by year, category, subcategory, region, and more, this dashboard empowers users to make informed business decisions and drive growth.
+![Sales Dashboard Image](https://github.com/Timmycode1/Sales-Dashboard/blob/main/Screenshot%20Sales%20Dashboard.png)
+![Customers Dashboard Image](https://github.com/Timmycode1/Sales-Dashboard/blob/main/Screenshot%20Customer%20dashboard.png)
+
 
 ## Data Source
 
